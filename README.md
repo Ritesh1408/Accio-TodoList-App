@@ -24,9 +24,6 @@ A simple and interactive To-Do List application that allows users to manage task
 - **HTML, CSS, JavaScript**  
 - **LocalStorage** for data persistence  
 
-## 📷 Screenshots  
-*(Add screenshots if needed)*  
-
 ## 💡 Future Enhancements  
 - 🔔 **Notifications & Reminders**  
 - 📊 **Task progress tracking**  
